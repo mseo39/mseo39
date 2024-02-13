@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi I'm Minseo 👋
 Welcome to my page😊
+
 I'm a backend developer using a python-based framework
 
 ### My Tech Stack
