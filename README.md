@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Hi I'm Minseo 👋
+Welcome to my page😊
+I'm a backend developer using a python-based framework
 
 ### My Tech Stack
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
