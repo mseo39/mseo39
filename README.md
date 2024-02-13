@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ## Hi I'm Minseo 👋
 Welcome to my page😊
+<br>I'm a backend developer using a python-based framework
 
-I'm a backend developer using a python-based framework
-
-### My Tech Stack
+### ⚒ My Tech Stack
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
