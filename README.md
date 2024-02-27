@@ -22,10 +22,3 @@ Welcome to my page😊
 ### ⚒ My Tech Stack
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mseo39)](https://solved.ac/mseo39/)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mseo39)](https://github.com/mseo39/github-readme-stats)
