@@ -24,4 +24,4 @@ Welcome to my page😊
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌱 I’m currently ...
-[학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
+좋은 사람들과,, [학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
