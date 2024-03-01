@@ -22,3 +22,6 @@ Welcome to my page😊
 ### ⚒ My Tech Stack
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌱 I’m currently ...
+[학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
