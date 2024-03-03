@@ -24,4 +24,6 @@ Welcome to my page😊
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌱 I’m currently ...
+![fastapi](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 좋은 사람들과,, [학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
