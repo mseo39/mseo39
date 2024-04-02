@@ -21,10 +21,7 @@ Welcome to my page😊
 현재는 파이썬 기반의 프레임워크를 사용하여 웹 개발을 하면서 꿈을 키우고 있습니다😊
 -->
 
-## Hi I'm Minseo 👋
-
-Welcome to my page😊
-<br>I'm a backend developer using a python-based framework
+## 안녕하세요, 백엔드 개발자 강민서입니다 👋
 
 ### ⚒ My Tech Stack
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
@@ -32,3 +29,7 @@ Welcome to my page😊
 
 ### 🌱 I’m currently ...
 * 좋은 사람들과,, [학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
+
+### 🔍 About Me
+<a href="https://opposite-salmon-b2c.notion.site/564313067bb344719ae115a646a898e6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
+<a href="https://velog.io/@mseo39" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
