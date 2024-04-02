@@ -31,5 +31,8 @@ Welcome to my page😊
 * 좋은 사람들과,, [학과 홈페이지 기획중](https://github.com/Team-SCC/CSE-page)
 
 ### 🔍 About Me
-<a href="https://opposite-salmon-b2c.notion.site/564313067bb344719ae115a646a898e6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
-<a href="https://velog.io/@mseo39" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<div style="display: flex;">
+    <a href="https://opposite-salmon-b2c.notion.site/564313067bb344719ae115a646a898e6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="60" height="20"/></a>
+    <a href="https://velog.io/@mseo39" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" width="60" height="20"/></a>
+</div>
+
