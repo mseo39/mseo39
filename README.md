@@ -35,7 +35,7 @@ Welcome to my page😊
 
 ### 🌱 Experience
 - **SCH LikeLion 8th** - 교육 *(Jul 2021 ~ Jan 2022)*<br>
-- **Second Syndrome** - Backend Developer Intern *(May 2024 ~ ing)*<br>
+- **Second Syndrome** - Backend Developer Intern *(May 2024 ~ Nov 2024)*<br>
 
 ### 📚 I’m currently learning ...
 * **[학과 홈페이지](https://github.com/Team-SCC/CSE-page)** - FastAPI
