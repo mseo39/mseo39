@@ -38,5 +38,4 @@ Welcome to my page😊
 - **Second Syndrome** - Backend Developer Intern *(May 2024 ~ Nov 2024)*<br>
 
 ### 📚 I’m currently learning ...
-* **[학과 홈페이지](https://github.com/Team-SCC/CSE-page)** - FastAPI
-* **[뒤장고](https://github.com/BackDjango)** - Django, DRF
+* **[추억의 칠판](https://github.com/memory-page)** - FastAPI
