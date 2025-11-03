@@ -48,7 +48,7 @@ Welcome to my page😊
 
 
 ### 💼 Experience
-- **Second Syndrome** - Backend Developer Intern *(May 2024 - Nov 2024)* <br>
+- **Second Syndrome** - Backend Developer Intern *(2024.05 - 2024.11)* <br>
 `Kotlin`, `Python`, `AWS Lambda`, `API Gateway`, `Redis`, `PostgreSQL`, `Raspberry Pi`
 
 ### 🚀 Projects
