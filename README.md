@@ -52,7 +52,7 @@ Welcome to my page😊
 `Kotlin`, `Python`, `AWS Lambda`, `API Gateway`, `Redis`, `PostgreSQL`, `Raspberry Pi`
 
 ### 🚀 Projects
-  * [AI 알림톡 템플릿 자동 생성](https://github.com/jober3/jober-BE) (*2025.09 - 2025.10* | 팀)
+  * [AI 알림톡 템플릿 자동 생성](https://github.com/jober3) (*2025.09 - 2025.10* | 팀)
       * AI 기반 알림톡 템플릿 제작/승인 자동화
 
 <details>
